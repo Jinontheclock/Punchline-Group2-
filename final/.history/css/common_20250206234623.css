@@ -1,0 +1,44 @@
+html{
+    color: rgb(77, 77, 77);
+    font: 1em;
+    line-height: 1.4;
+    font-family: Ubuntu, sans-serif;
+    height: 100%;
+    margin: 0;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: 350;
+    color: #3B3B3B;
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: 300;
+    color: #494949;
+}
+
+h3 {
+    font-size:16pt;
+    font-weight: 700;
+    font-style: normal;
+    color: #545454;
+}
+
+p {
+    font-size: 0.7rem;
+    color: #A3A3A3;
+}
+
+.backgrond-img {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+footer {
+    position: static;
+    bottom: 0;
+    width: 100%; 
+}
