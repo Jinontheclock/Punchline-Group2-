@@ -1,0 +1,14 @@
+/* Mobile - Portrait */
+@media (max-width: 575px) {}
+
+/* Mobile - Landscape */
+@media (min-width: 576px) and (max-width: 767px) {}
+
+/* Tablet */
+@media (min-width: 768px) and (max-width: 991px) {}
+
+/* Desktop */
+@media (min-width: 992px) and (max-width: 1199px) {}
+
+/* Desktop (Large) */
+@media (min-width: 1200px) {}
